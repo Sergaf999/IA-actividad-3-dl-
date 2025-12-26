@@ -6,3 +6,9 @@ Actividad para la asignatura de inteligencia artificial
 * **Archivo:** 00_setup_LopezDuro.ipynb
 * **SHA-256:** 35486c6361cbe67fcd126664f9a461872c45dc7caa55a4b5518e89d45a8dd3aa
 * **Comentario:** Inicio del proyecto. Estructura base creada y entorno verificado.
+
+# Checklist de cierre S1 - Sergio Lopez Duro
+- [x] Cuaderno `00_setup_LopezDuro.ipynb` visible en el repo.
+- [x] Archivo `registro_hash.json` visible en el repo.
+- [x] README actualizado con sección "Evidencia S1" y Hash.
+- [x] Autoevaluación EEE realizada (Issue o README).
